@@ -19,5 +19,5 @@
   "engine":{
   	"node":">=0.10.0"
   },
-  "files":["default_message.html"]
+  "files":["default_message.html","index.js"]
 }
