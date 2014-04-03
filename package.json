@@ -18,5 +18,6 @@
   },
   "engine":{
   	"node":">=0.10.0"
-  }
+  },
+  "files":["default_message.html"]
 }
