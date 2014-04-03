@@ -2,6 +2,8 @@ On March 24, 2014, Brendan Eich was promoted to the CEO of Mozilla. In 2008, Eic
 
 This is a simple Node.js module inspired by [OKCupid](https://www.okcupid.com/)'s [brave message to Firefox users](http://www.huffingtonpost.com/2014/03/31/okcupid-mozilla_n_5065743.html). It currently makes use of [Express](http://expressjs.com), although this dependency may be removed in future versions.
 
+Please keep in mind that this is a work in progress. Pull requests and constructive criticism are welcome.
+
 Installation
 ------------
 
