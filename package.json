@@ -15,5 +15,8 @@
   "repository":{
   	"type":"git",
   	"url":"https://github.com/jackmaney/firefox-boycott"
+  },
+  "engine":{
+  	"node":">=0.10.0"
   }
 }
