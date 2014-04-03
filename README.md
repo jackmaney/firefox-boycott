@@ -35,7 +35,7 @@ The message is shown if and only if:
 TODO
 -----
 
-* Make this installable via npm.
+* ~~Make this installable via npm.~~
 
 * Implement a cookie, so that once a bypass is made, it doesn't have to be made again for a set period of time.
 
