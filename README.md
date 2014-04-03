@@ -2,12 +2,19 @@ On March 24, 2014, Brendan Eich was promoted to the CEO of Mozilla. In 2008, Eic
 
 This is a simple Node.js module inspired by [OKCupid](https://www.okcupid.com/)'s [brave message to Firefox users](http://www.huffingtonpost.com/2014/03/31/okcupid-mozilla_n_5065743.html). It currently makes use of [Express](http://expressjs.com), although this dependency may be removed in future versions.
 
+Installation
+------------
+
+The module is up on npm, so the following should work:
+
+	npm install firefox-boycott
+
 Usage
 -----
 
-In essence, the module consists of a function to which you pass the Express app, a message in the form of a string (which defaults to the text in `default_message.html`), and an optional route or array of routes (defaults to `"/"`). Here's the very simple example included in the `example` folder:
+In essence, the module consists of a function to which you pass the Express app, a message in the form of a string (which defaults to the text in `default_message.html`), and an optional route or array of routes (defaults to `"/"`). Here's the very simple example included in the `example` folder, with only the first line altered:
 
-	var boycotter = require("../index.js");
+	var boycotter = require("firefox-boycott");
 	var app = require("express")();
 
 	boycotter(app);

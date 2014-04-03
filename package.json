@@ -1,6 +1,6 @@
 {
   "name": "firefox-boycott",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An Express-Based Plugin to Gently Educate Firefox Users of Mozilla's Anti-LGBT CEO",
   "main": "index.js",
   "scripts": {
