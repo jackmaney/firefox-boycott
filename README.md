@@ -1,3 +1,5 @@
+**Note:** Since [Brendan Eich has resigned as CEO of Mozilla](https://blog.mozilla.org/blog/2014/04/03/brendan-eich-steps-down-as-mozilla-ceo/), this module is effectively deprecated.
+
 On March 24, 2014, Brendan Eich was promoted to the CEO of Mozilla. In 2008, Eich made a $1,000 donation in support of Proposition 8. He has also donated money to white supremacists and Tea Party members. He is doubling down and refuses to resign.
 
 This is a simple Node.js module inspired by [OKCupid](https://www.okcupid.com/)'s [brave message to Firefox users](http://www.huffingtonpost.com/2014/03/31/okcupid-mozilla_n_5065743.html). It currently makes use of [Express](http://expressjs.com), although this dependency may be removed in future versions.
